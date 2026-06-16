@@ -21,9 +21,8 @@
 
 ## 📸 Overview
 
-> **TODO:** Drop a hero screenshot or short demo GIF here — the dashboard or the ATS-score screen makes the strongest first impression.
->
-> `![CVPilot dashboard](docs/screenshot-dashboard.png)`
+<img width="1866" height="875" alt="image" src="https://github.com/user-attachments/assets/b755b0bb-9265-49f7-bbdf-3445570a6969" />
+
 
 CVPilot turns a generic CV into a role-specific, ATS-optimised application in one click. Paste a job description, and CVPilot scores your CV against it, highlights gaps, and tailors your content to match — so more of your applications actually reach a human.
 
